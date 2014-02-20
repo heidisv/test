@@ -1,0 +1,41 @@
+Tips!
+
+----------------
+
+Klone ting fra github:
+
+- kom deg inn i mappen du vil ha det inn i
+- skriv : git clone <nettsiden til prosjektet>
+	eks: git clone https://github.com/larseen/KTN-ELM-CHAT
+- gå inn i mappen til prosjektet for å jobbe videre.
+
+----------------
+
+git status
+
+- forteller deg om du har endret noe uten å adde det til prosjektet.
+
+----------------
+
+git add --all
+git add <filnavn>
+
+- gjør dette før commit... dono why? :(
+
+----------------
+
+git commit -m "<legg inn en melding>"
+
+- legger inn det du har gjort i prosjektet
+
+----------------
+
+git push
+
+- sender det du addet til serveren, slik at andre kan hente det ut.
+
+----------------
+
+git pull
+
+- henter ut det andre brukere har gjort/endret på.
